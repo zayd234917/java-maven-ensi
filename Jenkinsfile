@@ -13,7 +13,7 @@ steps {
 // clean the directory
 sh "rm -rf *"
 // Checkout the Git repository
-sh "git clone https://github.com/simoks/java-maven.git"
+sh "git clone https://github.com/zayd234917/java-maven-ensi.git"
 }
 }
 stage('Build') {
